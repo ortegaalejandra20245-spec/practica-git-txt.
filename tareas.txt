@@ -1,2 +1,2 @@
-Lista de tareas de la semana
+Lista de tareas de la semana actual
 Estudiar para el parcial de estática
